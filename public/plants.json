@@ -1,0 +1,43 @@
+[
+    {
+        "_id": 139200224,
+        "name":[
+            "delta",
+            "pinshin"
+        ],
+        "image": "../src/assets/angle.jpg",
+        "price": 160,
+        "available": 120,
+        "reating": 1
+    },
+    {
+        "_id": 139200224,
+        "name":[
+            "pinshin"
+        ],
+        "image": "../src/assets/angle.jpg",
+        "price": 160,
+        "available": 120,
+        "reating": 4.5
+    },
+    {
+        "_id": 139200224,
+        "name":[
+            "pinshin"
+        ],
+        "image": "../src/assets/angle.jpg",
+        "price": 160,
+        "available": 120,
+        "reating": 4.5
+    },
+    {
+        "_id": 139200224,
+        "name":[
+            "pinshin"
+        ],
+        "image": "../src/assets/angle.jpg",
+        "price": 160,
+        "available": 120,
+        "reating": 4.5
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "potSize":[
+            {   
+                "potCode": 1304,
+                "inch": 4,
+                "potPrise": 60
+            },
+            {   
+                "potCode": 1306,
+                "inch": 6,
+                "potPrise": 80
+            },
+            {
+                "potCode": 1308,
+                "inch": 8,
+                "potPrise": 100
+            }
+        ],
+        "potColor": [ "white", "black"]
+    }
+]

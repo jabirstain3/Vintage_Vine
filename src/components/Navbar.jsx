@@ -6,8 +6,8 @@ import { Link } from "react-router-dom";
 
 const Navbar = () => {
     const navlinks = <>
-        <Navlinks  text='Outdoor' address='/cart'/>
-        <Navlinks  text='Indoor' address='/'/>
+        <Navlinks  text='Outdoor' address='/cart' activeclass="bg-action"/>
+        <Navlinks  text='Indoor' address='/' activeclass="bg-action border-black"/>
     </>
 
     return (
