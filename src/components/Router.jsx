@@ -3,6 +3,8 @@ import HomePage from "../layouts/homePage/HomePage";
 import CartPage from "../layouts/cartpage/CartPage";
 import IndoorplantsCtg from "../layouts/homePage/IndoorplantsCtg";
 import OutdoorplantsCtg from "../layouts/homePage/OutdoorplantsCtg";
+import LogInPage from "../layouts/loginpage/LogInPage";
+import SignUpPage from "../layouts/signupPage/SignUpPage";
 
 const Router = createBrowserRouter([
     {
@@ -27,6 +29,14 @@ const Router = createBrowserRouter([
     {
         path: "/cart",
         element:<CartPage/>,
+    },
+    {
+        path: "/login",
+        element: <LogInPage/>,
+    },
+    {
+        path: "/signup",
+        element: <SignUpPage/>,
     },
 
 ])
